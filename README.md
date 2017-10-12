@@ -25,3 +25,13 @@ Average Teacher age: 41.0
 The number of Grade 10 students: 3
 Average Grade 10 students age: 15.0
 ```
+
+
+## Purpose
+- Git usage
+- Instance variables
+- Read/write instance variables
+- Class Constructor
+- Class Inheritance
+- Age calculation
+- Use of array operations
